@@ -1,3 +1,4 @@
+#Darren Leong Repository
 def encode(data_string):
     new_string=""
     for i in data_string:
