@@ -27,3 +27,11 @@ if __name__ == "__main__":
             print()
         elif choice==3:
             quit
+
+#my addition - Avi M
+def decode(encoded_password):
+	new_string=""
+	for i in encoded_password:
+		new_string+=str(int(i)-3)
+	
+	return new_string
