@@ -23,6 +23,5 @@ if __name__ == "__main__":
             print()
         elif choice==2:
             pass
-            #insert decoder
         elif choice==3:
             quit
